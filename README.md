@@ -10,7 +10,11 @@ CONTENTS OF THIS REPOSITORY
 
 # Mediculus Fall and Pain Detection Model:
 
-* Machine Learning models to analyse video feeds in surveillance systems and detect fall, accidents or pain expressions in people and notify authorities.
+* Machine Learning models to analyse video feeds in surveillance systems and detect fall, accidents or pain expressions in people and notify authorities. A LSTM model was used to predict fall provided Keypoints of Human. A CNN Model was used to detect pain from a person's face. cv2 harr cascade was used to detect faces.
+
+<i> DEMO </i>
+
+![Not Available](demo.gif)
 
 # Mediculus Express Server Backend:
 
