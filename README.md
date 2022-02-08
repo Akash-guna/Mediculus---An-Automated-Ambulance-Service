@@ -14,7 +14,8 @@ CONTENTS OF THIS REPOSITORY
 
 <i> DEMO </i>
 
-![Not Available](demo.gif)
+![Demo](https://user-images.githubusercontent.com/54630055/152993370-3f22422a-b603-4b34-89f4-c001fba762e9.gif)
+
 
 # Mediculus Express Server Backend:
 
