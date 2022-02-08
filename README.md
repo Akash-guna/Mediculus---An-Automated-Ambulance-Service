@@ -15,7 +15,7 @@ CONTENTS OF THIS REPOSITORY
 <i> DEMO </i>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/54630055/152993370-3f22422a-b603-4b34-89f4-c001fba762e9.gif" width="800" height="400" />
+<img src="https://user-images.githubusercontent.com/54630055/152993370-3f22422a-b603-4b34-89f4-c001fba762e9.gif" width="600" height="400" />
 </p>
 # Mediculus Express Server Backend:
 
